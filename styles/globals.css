@@ -10,7 +10,7 @@
 
 .main {
   width: 100vw;
-  min-height: 100vh;
+  height: 100vh;
   position: fixed;
   display: flex;
   justify-content: center;
@@ -63,6 +63,7 @@
   filter: blur(100px) saturate(150%);
   top: 80px;
   opacity: 0.15;
+  background-color: black;
 }
 
 @media screen and (max-width: 640px) {
