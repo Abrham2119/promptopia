@@ -1,6 +1,6 @@
 
 const Home = () => (
-  
+    
   <section className=' w-full flex flex-col justify-center  items-center'>
     <h1 className=" head_text text-center">Discover & Share
     <br className=" max-md:hidden" />
